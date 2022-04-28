@@ -6,10 +6,10 @@ import time
 
 PROMISSED_UP = 30
 PROMISSED_DOWN = 20
-USERNAME = "Tony29743808"
+USERNAME = "username"
 
-TWITTER_LOG = "tonyuproduction@gmail.com"
-TWITTER_PASS = "Anton410101"
+TWITTER_LOG = "email"
+TWITTER_PASS = "password"
 
 
 class InternetSpeedBot():
